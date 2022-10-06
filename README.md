@@ -21,7 +21,7 @@ I am new to coding, I know HTML, CSS, and starting my Javascript journey. I am l
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💼 Want to reach out and talk? You can reach me at, [email](mailto:aaronaj222@gmail.com) :)
-- 💬 ask me about anything, I am happy to help;
+- 💬 ask me about anything, I am happy to help
 
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
