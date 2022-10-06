@@ -1,4 +1,5 @@
 ### Aloha or Hafa Adai  
+[![@ajtvz's Holopin board](https://holopin.io/api/user/board?user=ajtvz)](https://holopin.io/@ajtvz)
 
 <a href="https://twitter.com/CodeNextDoor_" >
     <img align="left" alt="ajtvz | Twitter" width="22px" src="Images/twitter.png">
@@ -23,6 +24,5 @@ I am new to coding, I know HTML, CSS, and starting my Javascript journey. I am l
 - 💼 Want to reach out and talk? You can reach me at, [email](mailto:aaronaj222@gmail.com) :)
 - 💬 ask me about anything, I am happy to help
 
-[![@ajtvz's Holopin board](https://holopin.io/api/user/board?user=ajtvz)](https://holopin.io/@ajtvz)
 
 
