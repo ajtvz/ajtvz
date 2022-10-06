@@ -23,11 +23,6 @@ I am new to coding, I know HTML, CSS, and starting my Javascript journey. I am l
 - 💼 Want to reach out and talk? You can reach me at, [email](mailto:aaronaj222@gmail.com) :)
 - 💬 ask me about anything, I am happy to help
 
-📊 **This week I spent my time on:**
-<!--START_SECTION:waka-->
+[![@ajtvz's Holopin board](https://holopin.io/api/user/board?user=ajtvz)](https://holopin.io/@ajtvz)
 
-```text
-Javascript   60 mins          █████████████████████░░░░   83.72 %
-Html         30 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
-```
 
