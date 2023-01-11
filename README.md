@@ -14,10 +14,9 @@
 
 
 
-Hi My name is Aaron, but you all can call me AJ, I am a very passionate Self taught, Self motivated, Very friendly, Team motivated Software Engineer! I am currently 6 years deep in the US Army. On the hunt to look for open oppertunites to grow as a person, software engineer, and as a team member on any team!
+Meet Aaron, also known as AJ. As a self-taught and self-motivated software engineer, AJ brings a unique combination of passion and dedication to his craft. With a friendly and team-oriented mindset, he is committed to growing as an individual, a software developer, and a team member.
 
-
-I am new to coding, I know HTML, CSS, and starting my Javascript journey. I am learning as much as I can every opertunity I get. I have been following along with #100Devs (Greatest family out there) since january 2022. I have alot to learn and am always open to help contributions and networking any time!
+Currently serving in the US Army for the past 6 years, AJ is constantly seeking opportunities to improve and expand his skills. He has a strong foundation in HTML and CSS and is actively pursuing his JavaScript journey. Through dedication and hard work, he has been following along with the #100Devs community since January 2022, actively seeking out new opportunities to learn and collaborate with others. AJ is always eager to help, contribute and network with others in the industry
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
