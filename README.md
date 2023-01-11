@@ -14,7 +14,7 @@
 
 
 
-Hi I my name is Aaron, but you all can call me AJ, I am a very passionate Self taught, Self motivated, Very friendly, Team motivated Software Engineer! I am currently 6 years deep in the US Army. On the hunt to look for open oppertunites to grow as a person, software engineer, and as a team member on any team!
+Hi My name is Aaron, but you all can call me AJ, I am a very passionate Self taught, Self motivated, Very friendly, Team motivated Software Engineer! I am currently 6 years deep in the US Army. On the hunt to look for open oppertunites to grow as a person, software engineer, and as a team member on any team!
 
 
 I am new to coding, I know HTML, CSS, and starting my Javascript journey. I am learning as much as I can every opertunity I get. I have been following along with #100Devs (Greatest family out there) since january 2022. I have alot to learn and am always open to help contributions and networking any time!
