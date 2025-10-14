@@ -20,7 +20,7 @@ Currently serving in the US Army for the past 6 years, AJ is constantly seeking 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 💼 Want to reach out and talk? You can reach me at, [email](mailto:aaronaj222@gmail.com) :)
+- 💼 Want to reach out and talk? You can reach me at my email, [Email Me Here](mailto:aaronaj222@gmail.com) :)
 - 💬 ask me about anything, I am happy to help
 
 
