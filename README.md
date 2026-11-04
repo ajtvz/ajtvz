@@ -138,4 +138,31 @@ Pin your best repositories on your GitHub profile and replace this section with 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:402080,100:080B16&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
+---
+
+## `> certifications`
+
+<div align="center">
+
+<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html">
+  <img src="https://img.shields.io/badge/CISCO-CCNA-00E5FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA"/>
+</a>
+
+<a href="https://www.comptia.org/en-us/certifications/security/">
+  <img src="https://img.shields.io/badge/CompTIA-SEC%2B-7C3AED?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
+</a>
+
+<a href="https://www.comptia.org/en-us/certifications/cloud/">
+  <img src="https://img.shields.io/badge/CompTIA-CLOUD%2B-00E5FF?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Cloud+"/>
+</a>
+
+</div>
+
+| Certification | Focus |
+|:--|:--|
+| 🌐 **Cisco CCNA** | Networking, routing, switching, and network fundamentals |
+| 🛡️ **CompTIA Security+** | Cybersecurity, risk management, and threat defense |
+| ☁️ **CompTIA Cloud+** | Cloud infrastructure, operations, and troubleshooting |
+
+
 </div>
